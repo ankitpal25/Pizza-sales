@@ -1,1 +1,1 @@
-sql+powerbi projext
+sql+powerbi project
